@@ -1,6 +1,17 @@
 {
   "active": true,
-  "id": "2026-05-22-02",
-  "title": "GTA CAOS RJ",
-  "message": "Bem vindo aos novo aplicativo do CAOS RJ. VG agradece sua presença!"
+  "notifications": [
+    {
+      "active": true,
+      "id": "2026-05-21-02",
+      "title": "GTA CAOS RJ",
+      "message": "Bem vindos ao novo aplicativo do GTA CAOS RJ! VG agradece sua presença."
+    },
+    {
+      "active": false,
+      "id": "2026-05-21-01",
+      "title": "Aviso antigo",
+      "message": "Mensagem antiga aqui."
+    }
+  ]
 }
