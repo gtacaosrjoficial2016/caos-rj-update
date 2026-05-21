@@ -1,0 +1,1972 @@
+{
+    "files":  [
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/anim__anim.img",
+                      "path":  "%FILES%/anim/anim.img",
+                      "size":  10942464
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/anim__cuts.img",
+                      "path":  "%FILES%/anim/cuts.img",
+                      "size":  16029696
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/anim__ped.ifp",
+                      "path":  "%FILES%/anim/ped.ifp",
+                      "size":  1433248
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__AudioEventHistory.txt",
+                      "path":  "%FILES%/audio/CONFIG/AudioEventHistory.txt",
+                      "size":  114056
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__BankLkup.dat",
+                      "path":  "%FILES%/audio/CONFIG/BankLkup.dat",
+                      "size":  8520
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__BankSlot.dat",
+                      "path":  "%FILES%/audio/CONFIG/BankSlot.dat",
+                      "size":  216902
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__EventVol.dat",
+                      "path":  "%FILES%/audio/CONFIG/EventVol.dat",
+                      "size":  45402
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__PakFiles.dat",
+                      "path":  "%FILES%/audio/CONFIG/PakFiles.dat",
+                      "size":  468
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__SOUNDINF.DAT",
+                      "path":  "%FILES%/audio/CONFIG/SOUNDINF.DAT",
+                      "size":  746760
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__StrmPaks.dat",
+                      "path":  "%FILES%/audio/CONFIG/StrmPaks.dat",
+                      "size":  272
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__TrakLkup.dat",
+                      "path":  "%FILES%/audio/CONFIG/TrakLkup.dat",
+                      "size":  23064
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__CONFIG__TRKHEAD.DAT",
+                      "path":  "%FILES%/audio/CONFIG/TRKHEAD.DAT",
+                      "size":  15506696
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__FEET.osw",
+                      "path":  "%FILES%/audio/SFX/FEET.osw",
+                      "size":  138118
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__FEET.osw.idx",
+                      "path":  "%FILES%/audio/SFX/FEET.osw.idx",
+                      "size":  1220
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__GENRL.osw",
+                      "path":  "%FILES%/audio/SFX/GENRL.osw",
+                      "size":  9362373
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__GENRL.osw.idx",
+                      "path":  "%FILES%/audio/SFX/GENRL.osw.idx",
+                      "size":  20868
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__PAIN_A.osw",
+                      "path":  "%FILES%/audio/SFX/PAIN_A.osw",
+                      "size":  3247335
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__PAIN_A.osw.idx",
+                      "path":  "%FILES%/audio/SFX/PAIN_A.osw.idx",
+                      "size":  12836
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__AA.osw",
+                      "path":  "%FILES%/audio/STREAMS/AA.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__AA.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/AA.osw.idx",
+                      "size":  1522
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__ADVERTS.osw",
+                      "path":  "%FILES%/audio/STREAMS/ADVERTS.osw",
+                      "size":  3516982
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__ADVERTS.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/ADVERTS.osw.idx",
+                      "size":  1591
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__AMBIENCE.osw",
+                      "path":  "%FILES%/audio/STREAMS/AMBIENCE.osw",
+                      "size":  22719112
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__AMBIENCE.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/AMBIENCE.osw.idx",
+                      "size":  924
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__BEATS.osw",
+                      "path":  "%FILES%/audio/STREAMS/BEATS.osw",
+                      "size":  9415375
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__BEATS.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/BEATS.osw.idx",
+                      "size":  234
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CH.osw",
+                      "path":  "%FILES%/audio/STREAMS/CH.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CH.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/CH.osw.idx",
+                      "size":  2994
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CO.osw",
+                      "path":  "%FILES%/audio/STREAMS/CO.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CO.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/CO.osw.idx",
+                      "size":  3569
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CR.osw",
+                      "path":  "%FILES%/audio/STREAMS/CR.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CR.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/CR.osw.idx",
+                      "size":  3592
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CUTSCENE.osw",
+                      "path":  "%FILES%/audio/STREAMS/CUTSCENE.osw",
+                      "size":  301175
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__CUTSCENE.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/CUTSCENE.osw.idx",
+                      "size":  3247
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__DS.osw",
+                      "path":  "%FILES%/audio/STREAMS/DS.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__DS.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/DS.osw.idx",
+                      "size":  4121
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__HC.osw",
+                      "path":  "%FILES%/audio/STREAMS/HC.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__HC.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/HC.osw.idx",
+                      "size":  2649
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__MH.osw",
+                      "path":  "%FILES%/audio/STREAMS/MH.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__MH.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/MH.osw.idx",
+                      "size":  3500
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__MR.osw",
+                      "path":  "%FILES%/audio/STREAMS/MR.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__MR.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/MR.osw.idx",
+                      "size":  3385
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__NJ.osw",
+                      "path":  "%FILES%/audio/STREAMS/NJ.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__NJ.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/NJ.osw.idx",
+                      "size":  2994
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__RE.osw",
+                      "path":  "%FILES%/audio/STREAMS/RE.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__RE.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/RE.osw.idx",
+                      "size":  3707
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__RG.osw",
+                      "path":  "%FILES%/audio/STREAMS/RG.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__RG.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/RG.osw.idx",
+                      "size":  3914
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__TK.osw",
+                      "path":  "%FILES%/audio/STREAMS/TK.osw",
+                      "size":  15462
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__STREAMS__TK.osw.idx",
+                      "path":  "%FILES%/audio/STREAMS/TK.osw.idx",
+                      "size":  2327
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__360Default1280x720.cfg",
+                      "path":  "%FILES%/data/360Default1280x720.cfg",
+                      "size":  10898
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__360Default960x720.cfg",
+                      "path":  "%FILES%/data/360Default960x720.cfg",
+                      "size":  10888
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__animgrp.dat",
+                      "path":  "%FILES%/data/animgrp.dat",
+                      "size":  3096
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__ar_stats.dat",
+                      "path":  "%FILES%/data/ar_stats.dat",
+                      "size":  3593
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__carcols.dat",
+                      "path":  "%FILES%/data/carcols.dat",
+                      "size":  15361
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__cargrp.dat",
+                      "path":  "%FILES%/data/cargrp.dat",
+                      "size":  3909
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__carmods.dat",
+                      "path":  "%FILES%/data/carmods.dat",
+                      "size":  8763
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__clothes.dat",
+                      "path":  "%FILES%/data/clothes.dat",
+                      "size":  5317
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__colorcycle.dat",
+                      "path":  "%FILES%/data/colorcycle.dat",
+                      "size":  13612
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__Cop.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/Cop.ped",
+                      "size":  4908
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__Fireman.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/Fireman.ped",
+                      "size":  4435
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__GangMbr.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/GangMbr.ped",
+                      "size":  6194
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__Indoors.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/Indoors.ped",
+                      "size":  2809
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_empty.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_empty.ped",
+                      "size":  982
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_norm.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_norm.ped",
+                      "size":  4142
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_plyr.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_plyr.ped",
+                      "size":  2000
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_steal.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_steal.ped",
+                      "size":  3663
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_tough.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_tough.ped",
+                      "size":  3980
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__m_weak.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/m_weak.ped",
+                      "size":  4062
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__MISSION.grp",
+                      "path":  "%FILES%/data/Decision/Allowed/MISSION.grp",
+                      "size":  2758
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__R_Norm.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/R_Norm.ped",
+                      "size":  6450
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__R_Tough.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/R_Tough.ped",
+                      "size":  6378
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__R_Weak.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/R_Weak.ped",
+                      "size":  6289
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__RANDOM.grp",
+                      "path":  "%FILES%/data/Decision/Allowed/RANDOM.grp",
+                      "size":  4623
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__RANDOM.ped",
+                      "path":  "%FILES%/data/Decision/Allowed/RANDOM.ped",
+                      "size":  4142
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__Allowed__RANDOM2.grp",
+                      "path":  "%FILES%/data/Decision/Allowed/RANDOM2.grp",
+                      "size":  4623
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__Decision__PedEvent.txt",
+                      "path":  "%FILES%/data/Decision/PedEvent.txt",
+                      "size":  1298
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__default.dat",
+                      "path":  "%FILES%/data/default.dat",
+                      "size":  577
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__default.ide",
+                      "path":  "%FILES%/data/default.ide",
+                      "size":  4679
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__fonts.dat",
+                      "path":  "%FILES%/data/fonts.dat",
+                      "size":  3576
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__furnitur.dat",
+                      "path":  "%FILES%/data/furnitur.dat",
+                      "size":  16480
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__gridref.dat",
+                      "path":  "%FILES%/data/gridref.dat",
+                      "size":  1498
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__gta.dat",
+                      "path":  "%FILES%/data/gta.dat",
+                      "size":  3776
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__handling.cfg",
+                      "path":  "%FILES%/data/handling.cfg",
+                      "size":  64532
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__info.zon",
+                      "path":  "%FILES%/data/info.zon",
+                      "size":  28139
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__map.zon",
+                      "path":  "%FILES%/data/map.zon",
+                      "size":  436
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__Audiozon.ipl",
+                      "path":  "%FILES%/data/maps/Audiozon.ipl",
+                      "size":  10802
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countn2.ide",
+                      "path":  "%FILES%/data/maps/country/countn2.ide",
+                      "size":  35439
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countn2.ipl",
+                      "path":  "%FILES%/data/maps/country/countn2.ipl",
+                      "size":  41665
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countrye.ide",
+                      "path":  "%FILES%/data/maps/country/countrye.ide",
+                      "size":  34529
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countrye.ipl",
+                      "path":  "%FILES%/data/maps/country/countrye.ipl",
+                      "size":  49301
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryN.ide",
+                      "path":  "%FILES%/data/maps/country/countryN.ide",
+                      "size":  11308
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryN.ipl",
+                      "path":  "%FILES%/data/maps/country/countryN.ipl",
+                      "size":  14407
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryS.ide",
+                      "path":  "%FILES%/data/maps/country/countryS.ide",
+                      "size":  18450
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryS.ipl",
+                      "path":  "%FILES%/data/maps/country/countryS.ipl",
+                      "size":  33835
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryW.ide",
+                      "path":  "%FILES%/data/maps/country/countryW.ide",
+                      "size":  19704
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__countryw.ipl",
+                      "path":  "%FILES%/data/maps/country/countryw.ipl",
+                      "size":  35057
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__country__counxref.ide",
+                      "path":  "%FILES%/data/maps/country/counxref.ide",
+                      "size":  8494
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__cull.ipl",
+                      "path":  "%FILES%/data/maps/cull.ipl",
+                      "size":  104318
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__barriers.ide",
+                      "path":  "%FILES%/data/maps/generic/barriers.ide",
+                      "size":  1437
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__dynamic.ide",
+                      "path":  "%FILES%/data/maps/generic/dynamic.ide",
+                      "size":  4611
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__dynamic2.ide",
+                      "path":  "%FILES%/data/maps/generic/dynamic2.ide",
+                      "size":  10510
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__multiobj.ide",
+                      "path":  "%FILES%/data/maps/generic/multiobj.ide",
+                      "size":  5020
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__procobj.ide",
+                      "path":  "%FILES%/data/maps/generic/procobj.ide",
+                      "size":  4755
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__generic__vegepart.ide",
+                      "path":  "%FILES%/data/maps/generic/vegepart.ide",
+                      "size":  8062
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int1.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_int1.ide",
+                      "size":  2747
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int1.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_int1.ipl",
+                      "size":  21074
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int2.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_int2.ide",
+                      "size":  10941
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int2.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_int2.ipl",
+                      "size":  1683
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int3.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_int3.ide",
+                      "size":  3252
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int3.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_int3.ipl",
+                      "size":  2091
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int4.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_int4.ide",
+                      "size":  2323
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int4.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_int4.ipl",
+                      "size":  1185
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int5.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_int5.ide",
+                      "size":  4682
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_int5.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_int5.ipl",
+                      "size":  2988
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_intb.ide",
+                      "path":  "%FILES%/data/maps/interior/gen_intb.ide",
+                      "size":  5459
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__gen_intb.ipl",
+                      "path":  "%FILES%/data/maps/interior/gen_intb.ipl",
+                      "size":  1626
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_cont.ide",
+                      "path":  "%FILES%/data/maps/interior/int_cont.ide",
+                      "size":  385
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_cont.ipl",
+                      "path":  "%FILES%/data/maps/interior/int_cont.ipl",
+                      "size":  910
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_LA.ide",
+                      "path":  "%FILES%/data/maps/interior/int_LA.ide",
+                      "size":  6004
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_LA.ipl",
+                      "path":  "%FILES%/data/maps/interior/int_LA.ipl",
+                      "size":  1312
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_SF.ide",
+                      "path":  "%FILES%/data/maps/interior/int_SF.ide",
+                      "size":  1260
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_SF.ipl",
+                      "path":  "%FILES%/data/maps/interior/int_SF.ipl",
+                      "size":  1334
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_veg.ide",
+                      "path":  "%FILES%/data/maps/interior/int_veg.ide",
+                      "size":  4684
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__int_veg.ipl",
+                      "path":  "%FILES%/data/maps/interior/int_veg.ipl",
+                      "size":  5299
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__propext.ide",
+                      "path":  "%FILES%/data/maps/interior/propext.ide",
+                      "size":  2340
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__props.ide",
+                      "path":  "%FILES%/data/maps/interior/props.ide",
+                      "size":  26326
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__props2.ide",
+                      "path":  "%FILES%/data/maps/interior/props2.ide",
+                      "size":  21174
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__savehous.ide",
+                      "path":  "%FILES%/data/maps/interior/savehous.ide",
+                      "size":  1724
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__savehous.ipl",
+                      "path":  "%FILES%/data/maps/interior/savehous.ipl",
+                      "size":  2959
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__stadint.ide",
+                      "path":  "%FILES%/data/maps/interior/stadint.ide",
+                      "size":  2851
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__interior__stadint.ipl",
+                      "path":  "%FILES%/data/maps/interior/stadint.ipl",
+                      "size":  6299
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAe.ide",
+                      "path":  "%FILES%/data/maps/LA/LAe.ide",
+                      "size":  12249
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAe.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAe.ipl",
+                      "size":  27328
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAe2.ide",
+                      "path":  "%FILES%/data/maps/LA/LAe2.ide",
+                      "size":  21907
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAe2.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAe2.ipl",
+                      "size":  33651
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAhills.ide",
+                      "path":  "%FILES%/data/maps/LA/LAhills.ide",
+                      "size":  10601
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAhills.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAhills.ipl",
+                      "size":  34506
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAn.ide",
+                      "path":  "%FILES%/data/maps/LA/LAn.ide",
+                      "size":  11107
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAn.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAn.ipl",
+                      "size":  14264
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAn2.ide",
+                      "path":  "%FILES%/data/maps/LA/LAn2.ide",
+                      "size":  9565
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAn2.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAn2.ipl",
+                      "size":  13185
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAs.ide",
+                      "path":  "%FILES%/data/maps/LA/LAs.ide",
+                      "size":  12575
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAs.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAs.ipl",
+                      "size":  22414
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAs2.ide",
+                      "path":  "%FILES%/data/maps/LA/LAs2.ide",
+                      "size":  12364
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAs2.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAs2.ipl",
+                      "size":  38441
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAw.ide",
+                      "path":  "%FILES%/data/maps/LA/LAw.ide",
+                      "size":  9412
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAw.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAw.ipl",
+                      "size":  15105
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAw2.ide",
+                      "path":  "%FILES%/data/maps/LA/LAw2.ide",
+                      "size":  11060
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAw2.ipl",
+                      "path":  "%FILES%/data/maps/LA/LAw2.ipl",
+                      "size":  18232
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LaWn.ide",
+                      "path":  "%FILES%/data/maps/LA/LaWn.ide",
+                      "size":  13092
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LaWn.ipl",
+                      "path":  "%FILES%/data/maps/LA/LaWn.ipl",
+                      "size":  24330
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__LA__LAxref.ide",
+                      "path":  "%FILES%/data/maps/LA/LAxref.ide",
+                      "size":  10477
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__leveldes.ide",
+                      "path":  "%FILES%/data/maps/leveldes/leveldes.ide",
+                      "size":  360
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__leveldes.ipl",
+                      "path":  "%FILES%/data/maps/leveldes/leveldes.ipl",
+                      "size":  165
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__levelmap.ide",
+                      "path":  "%FILES%/data/maps/leveldes/levelmap.ide",
+                      "size":  3194
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__levelmap.ipl",
+                      "path":  "%FILES%/data/maps/leveldes/levelmap.ipl",
+                      "size":  4675
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__levelxre.ide",
+                      "path":  "%FILES%/data/maps/leveldes/levelxre.ide",
+                      "size":  9897
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__seabed.ide",
+                      "path":  "%FILES%/data/maps/leveldes/seabed.ide",
+                      "size":  12039
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__leveldes__seabed.ipl",
+                      "path":  "%FILES%/data/maps/leveldes/seabed.ipl",
+                      "size":  23342
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__occlu.ipl",
+                      "path":  "%FILES%/data/maps/occlu.ipl",
+                      "size":  1012
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__occluint.ipl",
+                      "path":  "%FILES%/data/maps/occluint.ipl",
+                      "size":  2338
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__occluLA.ipl",
+                      "path":  "%FILES%/data/maps/occluLA.ipl",
+                      "size":  35956
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__occlusf.ipl",
+                      "path":  "%FILES%/data/maps/occlusf.ipl",
+                      "size":  16114
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__occluveg.ipl",
+                      "path":  "%FILES%/data/maps/occluveg.ipl",
+                      "size":  17944
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__paths.ipl",
+                      "path":  "%FILES%/data/maps/paths.ipl",
+                      "size":  2658607
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__paths2.ipl",
+                      "path":  "%FILES%/data/maps/paths2.ipl",
+                      "size":  2292241
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__paths3.ipl",
+                      "path":  "%FILES%/data/maps/paths3.ipl",
+                      "size":  2428066
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__paths4.ipl",
+                      "path":  "%FILES%/data/maps/paths4.ipl",
+                      "size":  253014
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__paths5.ipl",
+                      "path":  "%FILES%/data/maps/paths5.ipl",
+                      "size":  457678
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFe.ide",
+                      "path":  "%FILES%/data/maps/SF/SFe.ide",
+                      "size":  16224
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFe.ipl",
+                      "path":  "%FILES%/data/maps/SF/SFe.ipl",
+                      "size":  26707
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFn.ide",
+                      "path":  "%FILES%/data/maps/SF/SFn.ide",
+                      "size":  11219
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFn.ipl",
+                      "path":  "%FILES%/data/maps/SF/SFn.ipl",
+                      "size":  26201
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFs.ide",
+                      "path":  "%FILES%/data/maps/SF/SFs.ide",
+                      "size":  18948
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFs.ipl",
+                      "path":  "%FILES%/data/maps/SF/SFs.ipl",
+                      "size":  37969
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFSe.ide",
+                      "path":  "%FILES%/data/maps/SF/SFSe.ide",
+                      "size":  30227
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFSe.ipl",
+                      "path":  "%FILES%/data/maps/SF/SFSe.ipl",
+                      "size":  53359
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFw.ide",
+                      "path":  "%FILES%/data/maps/SF/SFw.ide",
+                      "size":  16473
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFw.ipl",
+                      "path":  "%FILES%/data/maps/SF/SFw.ipl",
+                      "size":  29247
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__SF__SFxref.ide",
+                      "path":  "%FILES%/data/maps/SF/SFxref.ide",
+                      "size":  4631
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__tunnels.ipl",
+                      "path":  "%FILES%/data/maps/tunnels.ipl",
+                      "size":  3230
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegasE.ide",
+                      "path":  "%FILES%/data/maps/vegas/vegasE.ide",
+                      "size":  35542
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegasE.ipl",
+                      "path":  "%FILES%/data/maps/vegas/vegasE.ipl",
+                      "size":  61084
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__VegasN.ide",
+                      "path":  "%FILES%/data/maps/vegas/VegasN.ide",
+                      "size":  23715
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegasN.ipl",
+                      "path":  "%FILES%/data/maps/vegas/vegasN.ipl",
+                      "size":  36651
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__VegasS.ide",
+                      "path":  "%FILES%/data/maps/vegas/VegasS.ide",
+                      "size":  18656
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegasS.ipl",
+                      "path":  "%FILES%/data/maps/vegas/vegasS.ipl",
+                      "size":  30343
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__VegasW.ide",
+                      "path":  "%FILES%/data/maps/vegas/VegasW.ide",
+                      "size":  25456
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegasW.ipl",
+                      "path":  "%FILES%/data/maps/vegas/vegasW.ipl",
+                      "size":  49867
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegaxref.ide",
+                      "path":  "%FILES%/data/maps/vegas/vegaxref.ide",
+                      "size":  5751
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__vegas__vegaxref.ipl",
+                      "path":  "%FILES%/data/maps/vegas/vegaxref.ipl",
+                      "size":  3661
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__maps__veh_mods__veh_mods.ide",
+                      "path":  "%FILES%/data/maps/veh_mods/veh_mods.ide",
+                      "size":  7323
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__melee.dat",
+                      "path":  "%FILES%/data/melee.dat",
+                      "size":  6306
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__object.dat",
+                      "path":  "%FILES%/data/object.dat",
+                      "size":  126118
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__carrec.img",
+                      "path":  "%FILES%/data/paths/carrec.img",
+                      "size":  2357248
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__ROADBLOX.DAT",
+                      "path":  "%FILES%/data/paths/ROADBLOX.DAT",
+                      "size":  1304
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__tracks.dat",
+                      "path":  "%FILES%/data/paths/tracks.dat",
+                      "size":  25474
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__tracks2.dat",
+                      "path":  "%FILES%/data/paths/tracks2.dat",
+                      "size":  1892
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__tracks3.dat",
+                      "path":  "%FILES%/data/paths/tracks3.dat",
+                      "size":  8328
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__paths__tracks4.dat",
+                      "path":  "%FILES%/data/paths/tracks4.dat",
+                      "size":  18347
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__ped.dat",
+                      "path":  "%FILES%/data/ped.dat",
+                      "size":  1276
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__pedgrp.dat",
+                      "path":  "%FILES%/data/pedgrp.dat",
+                      "size":  5792
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__peds.ide",
+                      "path":  "%FILES%/data/peds.ide",
+                      "size":  33401
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__pedstats.dat",
+                      "path":  "%FILES%/data/pedstats.dat",
+                      "size":  3604
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__plants.dat",
+                      "path":  "%FILES%/data/plants.dat",
+                      "size":  9887
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__popcycle.dat",
+                      "path":  "%FILES%/data/popcycle.dat",
+                      "size":  127108
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__procobj.dat",
+                      "path":  "%FILES%/data/procobj.dat",
+                      "size":  10019
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__script__mainV1.scm",
+                      "path":  "%FILES%/data/script/mainV1.scm",
+                      "size":  3169778
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__script__scriptv1.img",
+                      "path":  "%FILES%/data/script/scriptv1.img",
+                      "size":  561152
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__shopping.dat",
+                      "path":  "%FILES%/data/shopping.dat",
+                      "size":  46875
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__ShopUVs.dat",
+                      "path":  "%FILES%/data/ShopUVs.dat",
+                      "size":  30509
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__statdisp.dat",
+                      "path":  "%FILES%/data/statdisp.dat",
+                      "size":  7292
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__surface.dat",
+                      "path":  "%FILES%/data/surface.dat",
+                      "size":  576
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__surfaud.dat",
+                      "path":  "%FILES%/data/surfaud.dat",
+                      "size":  6530
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__surfinfo.dat",
+                      "path":  "%FILES%/data/surfinfo.dat",
+                      "size":  28106
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__timecyc.dat",
+                      "path":  "%FILES%/data/timecyc.dat",
+                      "size":  40037
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__TouchDefaultPhone3x2.cfg",
+                      "path":  "%FILES%/data/TouchDefaultPhone3x2.cfg",
+                      "size":  10912
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__TouchDefaultPhoneWidescreen.cfg",
+                      "path":  "%FILES%/data/TouchDefaultPhoneWidescreen.cfg",
+                      "size":  10924
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__TouchDefaultTablet4x3.cfg",
+                      "path":  "%FILES%/data/TouchDefaultTablet4x3.cfg",
+                      "size":  10926
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__TouchDefaultTabletWidescreen.cfg",
+                      "path":  "%FILES%/data/TouchDefaultTabletWidescreen.cfg",
+                      "size":  10923
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__txdcut.ide",
+                      "path":  "%FILES%/data/txdcut.ide",
+                      "size":  478
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__vehicles.ide",
+                      "path":  "%FILES%/data/vehicles.ide",
+                      "size":  21093
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__water.dat",
+                      "path":  "%FILES%/data/water.dat",
+                      "size":  70099
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__water1.dat",
+                      "path":  "%FILES%/data/water1.dat",
+                      "size":  60063
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/data__weapon.dat",
+                      "path":  "%FILES%/data/weapon.dat",
+                      "size":  11602
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__arial.ttf",
+                      "path":  "%FILES%/fonts/arial.ttf",
+                      "size":  367112
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__arial_bold.ttf",
+                      "path":  "%FILES%/fonts/arial_bold.ttf",
+                      "size":  352224
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__georgia.ttf",
+                      "path":  "%FILES%/fonts/georgia.ttf",
+                      "size":  219712
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__impact.ttf",
+                      "path":  "%FILES%/fonts/impact.ttf",
+                      "size":  206784
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__palatino_linotype.ttf",
+                      "path":  "%FILES%/fonts/palatino_linotype.ttf",
+                      "size":  489884
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__quartz_ms.ttf",
+                      "path":  "%FILES%/fonts/quartz_ms.ttf",
+                      "size":  51032
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__segoe_print.ttf",
+                      "path":  "%FILES%/fonts/segoe_print.ttf",
+                      "size":  172448
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__segoe_script.ttf",
+                      "path":  "%FILES%/fonts/segoe_script.ttf",
+                      "size":  620204
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__tahoma.ttf",
+                      "path":  "%FILES%/fonts/tahoma.ttf",
+                      "size":  939280
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__webdings.ttf",
+                      "path":  "%FILES%/fonts/webdings.ttf",
+                      "size":  120560
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/fonts__wingding.ttf",
+                      "path":  "%FILES%/fonts/wingding.ttf",
+                      "size":  82180
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/gta_sa.set",
+                      "path":  "%FILES%/gta_sa.set",
+                      "size":  167
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/models__coll__peds.col",
+                      "path":  "%FILES%/models/coll/peds.col",
+                      "size":  21477
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/models__coll__vehicles.col",
+                      "path":  "%FILES%/models/coll/vehicles.col",
+                      "size":  1096
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/models__coll__weapons.col",
+                      "path":  "%FILES%/models/coll/weapons.col",
+                      "size":  560
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/models__effects.fxp",
+                      "path":  "%FILES%/models/effects.fxp",
+                      "size":  616708
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__gta.dat",
+                      "path":  "%FILES%/SAMP/gta.dat",
+                      "size":  3789
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__handling.cfg",
+                      "path":  "%FILES%/SAMP/handling.cfg",
+                      "size":  64532
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__main.scm",
+                      "path":  "%FILES%/SAMP/main.scm",
+                      "size":  96997
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__peds.ide",
+                      "path":  "%FILES%/SAMP/peds.ide",
+                      "size":  36369
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__SAMP.ide",
+                      "path":  "%FILES%/SAMP/SAMP.ide",
+                      "size":  89349
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__script.img",
+                      "path":  "%FILES%/SAMP/script.img",
+                      "size":  184320
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__settings.json",
+                      "path":  "%FILES%/SAMP/settings.json",
+                      "size":  775
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__TIMECYC.DAT",
+                      "path":  "%FILES%/SAMP/TIMECYC.DAT",
+                      "size":  40037
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__tracks2.dat",
+                      "path":  "%FILES%/SAMP/tracks2.dat",
+                      "size":  1
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__tracks4.dat",
+                      "path":  "%FILES%/SAMP/tracks4.dat",
+                      "size":  1
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__vehicles.ide",
+                      "path":  "%FILES%/SAMP/vehicles.ide",
+                      "size":  21093
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__WEAPON.dat",
+                      "path":  "%FILES%/SAMP/WEAPON.dat",
+                      "size":  11585
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/scache.txt",
+                      "path":  "%FILES%/scache.txt",
+                      "size":  3883
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/scache_small.txt",
+                      "path":  "%FILES%/scache_small.txt",
+                      "size":  1010
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/scache_small_low.txt",
+                      "path":  "%FILES%/scache_small_low.txt",
+                      "size":  943
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/stream.ini",
+                      "path":  "%FILES%/stream.ini",
+                      "size":  197
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int.img",
+                      "path":  "%FILES%/texdb/gta_int.img",
+                      "size":  44836864
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int__gta_int.pvr.dat",
+                      "path":  "%FILES%/texdb/gta_int/gta_int.pvr.dat",
+                      "size":  21742444
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int__gta_int.pvr.tmb",
+                      "path":  "%FILES%/texdb/gta_int/gta_int.pvr.tmb",
+                      "size":  663408
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int__gta_int.pvr.toc",
+                      "path":  "%FILES%/texdb/gta_int/gta_int.pvr.toc",
+                      "size":  10132
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int__gta_int.txt",
+                      "path":  "%FILES%/texdb/gta_int/gta_int.txt",
+                      "size":  174099
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta_int__gta_int.unc.tmb",
+                      "path":  "%FILES%/texdb/gta_int/gta_int.unc.tmb",
+                      "size":  663408
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3.img",
+                      "path":  "%FILES%/texdb/gta3.img",
+                      "size":  283521024
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3__gta3.pvr.dat",
+                      "path":  "%FILES%/texdb/gta3/gta3.pvr.dat",
+                      "size":  185725552
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3__gta3.pvr.tmb",
+                      "path":  "%FILES%/texdb/gta3/gta3.pvr.tmb",
+                      "size":  575452
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3__gta3.pvr.toc",
+                      "path":  "%FILES%/texdb/gta3/gta3.pvr.toc",
+                      "size":  49784
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3__gta3.txt",
+                      "path":  "%FILES%/texdb/gta3/gta3.txt",
+                      "size":  792665
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3__gta3.unc.tmb",
+                      "path":  "%FILES%/texdb/gta3/gta3.unc.tmb",
+                      "size":  1457212
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.dxt.dat",
+                      "path":  "%FILES%/texdb/menu/menu.dxt.dat",
+                      "size":  5187414
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.dxt.tmb",
+                      "path":  "%FILES%/texdb/menu/menu.dxt.tmb",
+                      "size":  992
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.dxt.toc",
+                      "path":  "%FILES%/texdb/menu/menu.dxt.toc",
+                      "size":  176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.etc.dat",
+                      "path":  "%FILES%/texdb/menu/menu.etc.dat",
+                      "size":  6472908
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.etc.tmb",
+                      "path":  "%FILES%/texdb/menu/menu.etc.tmb",
+                      "size":  992
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.etc.toc",
+                      "path":  "%FILES%/texdb/menu/menu.etc.toc",
+                      "size":  176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.pvr.dat",
+                      "path":  "%FILES%/texdb/menu/menu.pvr.dat",
+                      "size":  6472908
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.pvr.tmb",
+                      "path":  "%FILES%/texdb/menu/menu.pvr.tmb",
+                      "size":  992
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.pvr.toc",
+                      "path":  "%FILES%/texdb/menu/menu.pvr.toc",
+                      "size":  176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.txt",
+                      "path":  "%FILES%/texdb/menu/menu.txt",
+                      "size":  3147
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__menu__menu.unc.tmb",
+                      "path":  "%FILES%/texdb/menu/menu.unc.tmb",
+                      "size":  992
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__mobile__mobile.pvr.dat",
+                      "path":  "%FILES%/texdb/mobile/mobile.pvr.dat",
+                      "size":  8712314
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__mobile__mobile.pvr.tmb",
+                      "path":  "%FILES%/texdb/mobile/mobile.pvr.tmb",
+                      "size":  3940
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__mobile__mobile.pvr.toc",
+                      "path":  "%FILES%/texdb/mobile/mobile.pvr.toc",
+                      "size":  792
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__mobile__mobile.txt",
+                      "path":  "%FILES%/texdb/mobile/mobile.txt",
+                      "size":  14502
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__mobile__mobile.unc.tmb",
+                      "path":  "%FILES%/texdb/mobile/mobile.unc.tmb",
+                      "size":  3940
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player.img",
+                      "path":  "%FILES%/texdb/player.img",
+                      "size":  16412672
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.pvr.dat",
+                      "path":  "%FILES%/texdb/player/player.pvr.dat",
+                      "size":  6569414
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.pvr.tmb",
+                      "path":  "%FILES%/texdb/player/player.pvr.tmb",
+                      "size":  6940
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.pvr.toc",
+                      "path":  "%FILES%/texdb/player/player.pvr.toc",
+                      "size":  1580
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.txt",
+                      "path":  "%FILES%/texdb/player/player.txt",
+                      "size":  27810
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.pvr.dat",
+                      "path":  "%FILES%/texdb/playerhi/playerhi.pvr.dat",
+                      "size":  27658902
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.pvr.tmb",
+                      "path":  "%FILES%/texdb/playerhi/playerhi.pvr.tmb",
+                      "size":  6940
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.pvr.toc",
+                      "path":  "%FILES%/texdb/playerhi/playerhi.pvr.toc",
+                      "size":  1580
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.txt",
+                      "path":  "%FILES%/texdb/playerhi/playerhi.txt",
+                      "size":  28087
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp.img",
+                      "path":  "%FILES%/texdb/samp.img",
+                      "size":  36902912
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.dxt.dat",
+                      "path":  "%FILES%/texdb/samp/samp.dxt.dat",
+                      "size":  22393344
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.dxt.tmb",
+                      "path":  "%FILES%/texdb/samp/samp.dxt.tmb",
+                      "size":  21376
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.dxt.toc",
+                      "path":  "%FILES%/texdb/samp/samp.dxt.toc",
+                      "size":  6176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.etc.dat",
+                      "path":  "%FILES%/texdb/samp/samp.etc.dat",
+                      "size":  33528152
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.etc.tmb",
+                      "path":  "%FILES%/texdb/samp/samp.etc.tmb",
+                      "size":  21376
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.etc.toc",
+                      "path":  "%FILES%/texdb/samp/samp.etc.toc",
+                      "size":  6176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.pvr.dat",
+                      "path":  "%FILES%/texdb/samp/samp.pvr.dat",
+                      "size":  14142744
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.pvr.tmb",
+                      "path":  "%FILES%/texdb/samp/samp.pvr.tmb",
+                      "size":  21376
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.pvr.toc",
+                      "path":  "%FILES%/texdb/samp/samp.pvr.toc",
+                      "size":  6176
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.txt",
+                      "path":  "%FILES%/texdb/samp/samp.txt",
+                      "size":  89628
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.unc.dat",
+                      "path":  "%FILES%/texdb/samp/samp.unc.dat",
+                      "size":  33150952
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.unc.tmb",
+                      "path":  "%FILES%/texdb/samp/samp.unc.tmb",
+                      "size":  22528
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__samp__samp.unc.toc",
+                      "path":  "%FILES%/texdb/samp/samp.unc.toc",
+                      "size":  6156
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__SAMPCOL.img",
+                      "path":  "%FILES%/texdb/SAMPCOL.img",
+                      "size":  4253696
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.360.dat",
+                      "path":  "%FILES%/texdb/txd/txd.360.dat",
+                      "size":  7625578
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.360.tmb",
+                      "path":  "%FILES%/texdb/txd/txd.360.tmb",
+                      "size":  31028
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.360.toc",
+                      "path":  "%FILES%/texdb/txd/txd.360.toc",
+                      "size":  2376
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.pvr.dat",
+                      "path":  "%FILES%/texdb/txd/txd.pvr.dat",
+                      "size":  9422056
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.pvr.tmb",
+                      "path":  "%FILES%/texdb/txd/txd.pvr.tmb",
+                      "size":  49460
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.pvr.toc",
+                      "path":  "%FILES%/texdb/txd/txd.pvr.toc",
+                      "size":  2376
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.txt",
+                      "path":  "%FILES%/texdb/txd/txd.txt",
+                      "size":  43193
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__txd__txd.unc.tmb",
+                      "path":  "%FILES%/texdb/txd/txd.unc.tmb",
+                      "size":  59636
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__american.gxt",
+                      "path":  "%FILES%/Text/american.gxt",
+                      "size":  1339082
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__french.gxt",
+                      "path":  "%FILES%/Text/french.gxt",
+                      "size":  1467502
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__german.gxt",
+                      "path":  "%FILES%/Text/german.gxt",
+                      "size":  1497042
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__italian.gxt",
+                      "path":  "%FILES%/Text/italian.gxt",
+                      "size":  1370932
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__japanese.gxt",
+                      "path":  "%FILES%/Text/japanese.gxt",
+                      "size":  643330
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__russian.gxt",
+                      "path":  "%FILES%/Text/russian.gxt",
+                      "size":  1421150
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Text__spanish.gxt",
+                      "path":  "%FILES%/Text/spanish.gxt",
+                      "size":  1386626
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Textures__fonts__JapaneseFont.met",
+                      "path":  "%FILES%/Textures/fonts/JapaneseFont.met",
+                      "size":  45171
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Textures__fonts__RussianFont.met",
+                      "path":  "%FILES%/Textures/fonts/RussianFont.met",
+                      "size":  4279
+                  },
+                  {
+                      "gpu":  "all",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/Textures__fonts__RussianFont.png",
+                      "path":  "%FILES%/Textures/fonts/RussianFont.png",
+                      "size":  38743
+                  }
+              ]
+}
