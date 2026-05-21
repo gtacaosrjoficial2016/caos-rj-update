@@ -1490,12 +1490,6 @@
                   },
                   {
                       "gpu":  "Lite",
-                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/v1.2/SAMP__settings.json",
-                      "path":  "%FILES%/SAMP/settings.json",
-                      "size":  775
-                  },
-                  {
-                      "gpu":  "Lite",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/v1.2/SAMP__TIMECYC.DAT",
                       "path":  "%FILES%/SAMP/TIMECYC.DAT",
                       "size":  40037
