@@ -3,15 +3,15 @@
   "notifications": [
     {
       "active": true,
-      "id": "2026-05-21-02",
-      "title": "GTA CAOS RJ",
-      "message": "Bem vindos ao novo aplicativo do GTA CAOS RJ! VG agradece sua presença."
+      "id": "2026-05-21-03",
+      "title": "Ótimos Benefícios[LOJA VIP]",
+      "message": "Confira nossa loja vip no nosso site: gtacaosrj.com e garanta os melhores benefícios."
     },
     {
-      "active": false,
-      "id": "2026-05-21-01",
-      "title": "Aviso antigo",
-      "message": "Mensagem antiga aqui."
+      "active": true,
+      "id": "2026-05-21-02",
+      "title": "GTA CAOS RJ",
+      "message": "Bem vindos ao novo aplicativo do GTA CAOS RJ! Nossa equipe agradece sua presença."
     }
   ]
 }
