@@ -2004,7 +2004,7 @@
                   },
                   {
                       "name":  "gta3.img",
-                      "size":  283521024,
+                      "size":  319442944,
                       "path":  "%FILES%/texdb/gta3.img",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__gta3.img",
                       "gpu":  "all"
