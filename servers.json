@@ -5,7 +5,8 @@
       "ip": "151.242.227.172",
       "port": 7777,
       "players": 50,
-      "max_players": 500
+      "max_players": 500,
+      "mode": "RPG | Brasil [PT-BR]"
     }
   ]
 }
