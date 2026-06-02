@@ -113,13 +113,6 @@
                       "gpu":  "all"
                   },
                   {
-                      "name":  "GENRL",
-                      "size":  0,
-                      "path":  "%FILES%/audio/SFX/GENRL",
-                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__GENRL",
-                      "gpu":  "all"
-                  },
-                  {
                       "name":  "GENRL.osw",
                       "size":  9362373,
                       "path":  "%FILES%/audio/SFX/GENRL.osw",
