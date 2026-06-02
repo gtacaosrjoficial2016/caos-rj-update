@@ -85,13 +85,6 @@
                       "gpu":  "all"
                   },
                   {
-                      "name":  "FEET",
-                      "size":  0,
-                      "path":  "%FILES%/audio/SFX/FEET",
-                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__FEET",
-                      "gpu":  "all"
-                  },
-                  {
                       "name":  "FEET.osw",
                       "size":  138118,
                       "path":  "%FILES%/audio/SFX/FEET.osw",
@@ -103,13 +96,6 @@
                       "size":  1220,
                       "path":  "%FILES%/audio/SFX/FEET.osw.idx",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__FEET.osw.idx",
-                      "gpu":  "all"
-                  },
-                  {
-                      "name":  "GENRL",
-                      "size":  0,
-                      "path":  "%FILES%/audio/SFX/GENRL",
-                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/audio__SFX__GENRL",
                       "gpu":  "all"
                   },
                   {
