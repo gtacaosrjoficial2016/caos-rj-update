@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "news": [
+    {
+      "title": "NOVA TEMPORADA",
+      "description": "Uma nova temporada começou no CAOS RJ.",
+      "date": "16/06/2026",
+      "image": "caos_ref_news_1"
+    },
+    {
+      "title": "SISTEMA DE GUERRA",
+      "description": "Novo sistema de guerra com mais dinamismo.",
+      "date": "15/06/2026",
+      "image": "caos_ref_news_2"
+    },
+    {
+      "title": "MELHORIAS NO VOIP",
+      "description": "Áudio mais claro e estável para todos.",
+      "date": "14/06/2026",
+      "image": "caos_ref_news_3"
+    },
+    {
+      "title": "EVENTO COPA CAOS RJ",
+      "description": "Participe da nossa copa e concorra a prêmios.",
+      "date": "14/06/2026",
+      "image": "caos_ref_news_4"
+    },
+    {
+      "title": "NOVO VEÍCULO: SULTAN VIP",
+      "description": "Adicionado ao inventário VIP dos jogadores.",
+      "date": "13/06/2026",
+      "image": "caos_ref_news_5"
+    }
+  ],
+  "updates": [
+    "Correção de bugs",
+    "Melhorias no VOIP",
+    "Novo evento: Guerra Neutra",
+    "Balanceamento de armas"
+  ]
+}
