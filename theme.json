@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "enabled": true,
+  "name": "caos-rj-blue",
+  "colors": {
+    "background": "#04121E",
+    "surface": "#081220",
+    "surfaceAlt": "#061826",
+    "stroke": "#0088FF",
+    "strokeSoft": "#1F4560",
+    "primary": "#0088FF",
+    "primaryDark": "#004AD6",
+    "primaryLight": "#45B6FF",
+    "text": "#FFFFFF",
+    "muted": "#CAD5E3",
+    "dim": "#7F8CA0",
+    "danger": "#F64033",
+    "dangerDark": "#C4221C",
+    "success": "#35D74B",
+    "iconInk": "#04121E",
+    "imagePlaceholder": "#0B1B2A",
+    "progressTrack": "#12324A",
+    "secondaryButton": "#142A3B",
+    "secondaryStroke": "#2F4E63"
+  }
+}
