@@ -1878,7 +1878,7 @@
                   },
                   {
                       "name":  "settings.json",
-                      "size":  756,
+                      "size":  757,
                       "path":  "%FILES%/SAMP/settings.json",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/SAMP__settings.json",
                       "gpu":  "all"
@@ -1994,6 +1994,48 @@
                       "path":  "%FILES%/texdb/cutscene.img",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene.img",
                       "gpu":  "all"
+                  },
+                  {
+                      "name":  "cutscene.dxt.dat",
+                      "size":  5731070,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.dxt.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.dxt.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "cutscene.dxt.tmb",
+                      "size":  19440,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.dxt.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.dxt.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "cutscene.dxt.toc",
+                      "size":  1628,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.dxt.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.dxt.toc",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "cutscene.etc.dat",
+                      "size":  5731070,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.etc.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.etc.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "cutscene.etc.tmb",
+                      "size":  19440,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.etc.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.etc.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "cutscene.etc.toc",
+                      "size":  1628,
+                      "path":  "%FILES%/texdb/cutscene/cutscene.etc.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__cutscene__cutscene.etc.toc",
+                      "gpu":  "etc"
                   },
                   {
                       "name":  "cutscene.pvr.dat",
@@ -2360,6 +2402,48 @@
                       "gpu":  "all"
                   },
                   {
+                      "name":  "player.dxt.dat",
+                      "size":  6569414,
+                      "path":  "%FILES%/texdb/player/player.dxt.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.dxt.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "player.dxt.tmb",
+                      "size":  6940,
+                      "path":  "%FILES%/texdb/player/player.dxt.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.dxt.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "player.dxt.toc",
+                      "size":  1580,
+                      "path":  "%FILES%/texdb/player/player.dxt.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.dxt.toc",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "player.etc.dat",
+                      "size":  6569414,
+                      "path":  "%FILES%/texdb/player/player.etc.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.etc.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "player.etc.tmb",
+                      "size":  6940,
+                      "path":  "%FILES%/texdb/player/player.etc.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.etc.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "player.etc.toc",
+                      "size":  1580,
+                      "path":  "%FILES%/texdb/player/player.etc.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.etc.toc",
+                      "gpu":  "etc"
+                  },
+                  {
                       "name":  "player.pvr.dat",
                       "size":  6569414,
                       "path":  "%FILES%/texdb/player/player.pvr.dat",
@@ -2386,6 +2470,48 @@
                       "path":  "%FILES%/texdb/player/player.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__player__player.txt",
                       "gpu":  "all"
+                  },
+                  {
+                      "name":  "playerhi.dxt.dat",
+                      "size":  27658902,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.dxt.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.dxt.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "playerhi.dxt.tmb",
+                      "size":  6940,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.dxt.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.dxt.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "playerhi.dxt.toc",
+                      "size":  1580,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.dxt.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.dxt.toc",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "playerhi.etc.dat",
+                      "size":  27658902,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.etc.dat",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.etc.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "playerhi.etc.tmb",
+                      "size":  6940,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.etc.tmb",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.etc.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "playerhi.etc.toc",
+                      "size":  1580,
+                      "path":  "%FILES%/texdb/playerhi/playerhi.etc.toc",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datalite/texdb__playerhi__playerhi.etc.toc",
+                      "gpu":  "etc"
                   },
                   {
                       "name":  "playerhi.pvr.dat",
