@@ -1,36 +1,7 @@
-﻿{
-    "scheme":  "HMAC-SHA256",
-    "generated_at":  "2026-08-26 16:04:56",
-    "files":  {
-                  "update.json":  {
-                                      "signature":  "NXHi1+d+OD5pqch5uGzaQMu12n9AD8vmkN+GwP1D244=",
-                                      "signature_file":  "update.json.sig",
-                                      "size":  357,
-                                      "sha256":  "dd1b76b8a2975407c9522d08f98b392eafe0ec8cd53cc9fce908ec150871d31a"
-                                  },
-                  "full.json":  {
-                                    "signature":  "NAUHV+56Q/WQtXAT60UBuYunNI37HZXTxXHOvuuFCwM=",
-                                    "signature_file":  "full.json.sig",
-                                    "size":  151740,
-                                    "sha256":  "5311a16bc2af3c25a76c7d7135c54c7f84818ac62d4dce35a995d720e19e97c1"
-                                },
-                  "lite.json":  {
-                                    "signature":  "HM+vDoe0eI6Z3eKxMQClYfu3QqQq5vBuW+ScL5W17YU=",
-                                    "signature_file":  "lite.json.sig",
-                                    "size":  151740,
-                                    "sha256":  "0ddb9e2dce6c26eb3fb58adfdad43f8382a55c33c10e998bd7e5419f21583c43"
-                                },
-                  "verify_full.json":  {
-                                           "signature":  "OnNCPFwPEi2ToWyK+AIQeiuZ9mWEQ2AFEdhFMf8h2Wo=",
-                                           "signature_file":  "verify_full.json.sig",
-                                           "size":  147436,
-                                           "sha256":  "6682533deeccc4a2b111e39c3c7d95282b98177da4e96b472eab9868a9706463"
-                                       },
-                  "verify_lite.json":  {
-                                           "signature":  "quUX0bAinIKJTpd7xU1s7eHTyAe4Apygec1Wr37EgQU=",
-                                           "signature_file":  "verify_lite.json.sig",
-                                           "size":  147436,
-                                           "sha256":  "308f5fc1601aada269dfb560529cbd226811f6fad240c6d6ceb79ad2b5ce8815"
-                                       }
-              }
+{
+    "update.json":  "/jpjlgqJjUpuENQspdO9llSAIgXQ3njjzH3nkdGQEco=",
+    "full.json":  "NAUHV+56Q/WQtXAT60UBuYunNI37HZXTxXHOvuuFCwM=",
+    "lite.json":  "HM+vDoe0eI6Z3eKxMQClYfu3QqQq5vBuW+ScL5W17YU=",
+    "verify_full.json":  "OnNCPFwPEi2ToWyK+AIQeiuZ9mWEQ2AFEdhFMf8h2Wo=",
+    "verify_lite.json":  "quUX0bAinIKJTpd7xU1s7eHTyAe4Apygec1Wr37EgQU="
 }
