@@ -9,14 +9,14 @@
                   },
                   {
                       "name":  "cuts.img",
-                      "size":  270096384,
+                      "size":  16029696,
                       "path":  "%FILES%/anim/cuts.img",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/anim__cuts.img",
                       "gpu":  "all"
                   },
                   {
                       "name":  "ped.ifp",
-                      "size":  1933894,
+                      "size":  1976214,
                       "path":  "%FILES%/anim/ped.ifp",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/anim__ped.ifp",
                       "gpu":  "all"
@@ -471,14 +471,14 @@
                   },
                   {
                       "name":  "cargrp.dat",
-                      "size":  3963,
+                      "size":  3909,
                       "path":  "%FILES%/data/cargrp.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/data__cargrp.dat",
                       "gpu":  "all"
                   },
                   {
                       "name":  "carmods.dat",
-                      "size":  9110,
+                      "size":  8763,
                       "path":  "%FILES%/data/carmods.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/data__carmods.dat",
                       "gpu":  "all"
@@ -492,7 +492,7 @@
                   },
                   {
                       "name":  "colorcycle.dat",
-                      "size":  659421,
+                      "size":  13612,
                       "path":  "%FILES%/data/colorcycle.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/data__colorcycle.dat",
                       "gpu":  "all"
@@ -1591,7 +1591,7 @@
                   },
                   {
                       "name":  "timecyc.dat",
-                      "size":  40253,
+                      "size":  40037,
                       "path":  "%FILES%/data/timecyc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/data__timecyc.dat",
                       "gpu":  "all"
@@ -1633,7 +1633,7 @@
                   },
                   {
                       "name":  "vehicles.ide",
-                      "size":  21085,
+                      "size":  21093,
                       "path":  "%FILES%/data/vehicles.ide",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/data__vehicles.ide",
                       "gpu":  "all"
@@ -1794,7 +1794,7 @@
                   },
                   {
                       "name":  "log.txt",
-                      "size":  13905,
+                      "size":  1235038,
                       "path":  "%FILES%/SAMP/log.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/SAMP__log.txt",
                       "gpu":  "all"
@@ -1997,175 +1997,175 @@
                   },
                   {
                       "name":  "gta_int.dxt.dat",
-                      "size":  48496978,
+                      "size":  21742444,
                       "path":  "%FILES%/texdb/gta_int/gta_int.dxt.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.dxt.dat",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta_int.dxt.tmb",
-                      "size":  125994,
+                      "size":  663408,
                       "path":  "%FILES%/texdb/gta_int/gta_int.dxt.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.dxt.tmb",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta_int.dxt.toc",
-                      "size":  10168,
+                      "size":  10132,
                       "path":  "%FILES%/texdb/gta_int/gta_int.dxt.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.dxt.toc",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta_int.etc.dat",
-                      "size":  48496978,
+                      "size":  21742444,
                       "path":  "%FILES%/texdb/gta_int/gta_int.etc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.etc.dat",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta_int.etc.tmb",
-                      "size":  125994,
+                      "size":  663408,
                       "path":  "%FILES%/texdb/gta_int/gta_int.etc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.etc.tmb",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta_int.etc.toc",
-                      "size":  10168,
+                      "size":  10132,
                       "path":  "%FILES%/texdb/gta_int/gta_int.etc.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.etc.toc",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta_int.pvr.dat",
-                      "size":  48496978,
+                      "size":  21742444,
                       "path":  "%FILES%/texdb/gta_int/gta_int.pvr.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.pvr.dat",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta_int.pvr.tmb",
-                      "size":  125994,
+                      "size":  663408,
                       "path":  "%FILES%/texdb/gta_int/gta_int.pvr.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.pvr.tmb",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta_int.pvr.toc",
-                      "size":  10168,
+                      "size":  10132,
                       "path":  "%FILES%/texdb/gta_int/gta_int.pvr.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.pvr.toc",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta_int.txt",
-                      "size":  159541,
+                      "size":  174099,
                       "path":  "%FILES%/texdb/gta_int/gta_int.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.txt",
                       "gpu":  "all"
                   },
                   {
                       "name":  "gta_int.unc.tmb",
-                      "size":  352202,
+                      "size":  663408,
                       "path":  "%FILES%/texdb/gta_int/gta_int.unc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta_int__gta_int.unc.tmb",
                       "gpu":  "all"
                   },
                   {
                       "name":  "gta3.img",
-                      "size":  582303744,
+                      "size":  679600128,
                       "path":  "%FILES%/texdb/gta3.img",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3.img",
                       "gpu":  "all"
                   },
                   {
                       "name":  "gta3.dxt.dat",
-                      "size":  270833778,
+                      "size":  248017226,
                       "path":  "%FILES%/texdb/gta3/gta3.dxt.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.dxt.dat",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta3.dxt.tmb",
-                      "size":  542220,
+                      "size":  589324,
                       "path":  "%FILES%/texdb/gta3/gta3.dxt.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.dxt.tmb",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta3.dxt.toc",
-                      "size":  51252,
+                      "size":  51008,
                       "path":  "%FILES%/texdb/gta3/gta3.dxt.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.dxt.toc",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "gta3.etc.dat",
-                      "size":  270833778,
+                      "size":  243942882,
                       "path":  "%FILES%/texdb/gta3/gta3.etc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.etc.dat",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta3.etc.tmb",
-                      "size":  542220,
+                      "size":  589324,
                       "path":  "%FILES%/texdb/gta3/gta3.etc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.etc.tmb",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta3.etc.toc",
-                      "size":  51252,
+                      "size":  51008,
                       "path":  "%FILES%/texdb/gta3/gta3.etc.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.etc.toc",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "gta3.pvr.dat",
-                      "size":  270833778,
+                      "size":  243942882,
                       "path":  "%FILES%/texdb/gta3/gta3.pvr.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.pvr.dat",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta3.pvr.tmb",
-                      "size":  542220,
+                      "size":  589324,
                       "path":  "%FILES%/texdb/gta3/gta3.pvr.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.pvr.tmb",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta3.pvr.toc",
-                      "size":  51252,
+                      "size":  51008,
                       "path":  "%FILES%/texdb/gta3/gta3.pvr.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.pvr.toc",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "gta3.txt",
-                      "size":  811339,
+                      "size":  808008,
                       "path":  "%FILES%/texdb/gta3/gta3.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.txt",
                       "gpu":  "all"
                   },
                   {
                       "name":  "gta3.unc.tmb",
-                      "size":  1553292,
+                      "size":  1525676,
                       "path":  "%FILES%/texdb/gta3/gta3.unc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__gta3__gta3.unc.tmb",
                       "gpu":  "all"
                   },
                   {
                       "name":  "menu.dxt.dat",
-                      "size":  7799478,
+                      "size":  5187414,
                       "path":  "%FILES%/texdb/menu/menu.dxt.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.dxt.dat",
                       "gpu":  "all"
                   },
                   {
                       "name":  "menu.dxt.tmb",
-                      "size":  860,
+                      "size":  992,
                       "path":  "%FILES%/texdb/menu/menu.dxt.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.dxt.tmb",
                       "gpu":  "all"
@@ -2179,14 +2179,14 @@
                   },
                   {
                       "name":  "menu.etc.dat",
-                      "size":  10822324,
+                      "size":  6472908,
                       "path":  "%FILES%/texdb/menu/menu.etc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.etc.dat",
                       "gpu":  "all"
                   },
                   {
                       "name":  "menu.etc.tmb",
-                      "size":  860,
+                      "size":  992,
                       "path":  "%FILES%/texdb/menu/menu.etc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.etc.tmb",
                       "gpu":  "all"
@@ -2200,14 +2200,14 @@
                   },
                   {
                       "name":  "menu.pvr.dat",
-                      "size":  10822324,
+                      "size":  6472908,
                       "path":  "%FILES%/texdb/menu/menu.pvr.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.pvr.dat",
                       "gpu":  "all"
                   },
                   {
                       "name":  "menu.pvr.tmb",
-                      "size":  860,
+                      "size":  992,
                       "path":  "%FILES%/texdb/menu/menu.pvr.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.pvr.tmb",
                       "gpu":  "all"
@@ -2221,21 +2221,21 @@
                   },
                   {
                       "name":  "menu.txt",
-                      "size":  3342,
+                      "size":  3147,
                       "path":  "%FILES%/texdb/menu/menu.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.txt",
                       "gpu":  "all"
                   },
                   {
                       "name":  "menu.unc.tmb",
-                      "size":  860,
+                      "size":  992,
                       "path":  "%FILES%/texdb/menu/menu.unc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__menu__menu.unc.tmb",
                       "gpu":  "all"
                   },
                   {
                       "name":  "mobile.dxt.dat",
-                      "size":  7267946,
+                      "size":  8712314,
                       "path":  "%FILES%/texdb/mobile/mobile.dxt.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__mobile__mobile.dxt.dat",
                       "gpu":  "dxt"
@@ -2256,7 +2256,7 @@
                   },
                   {
                       "name":  "mobile.etc.dat",
-                      "size":  7267946,
+                      "size":  8712314,
                       "path":  "%FILES%/texdb/mobile/mobile.etc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__mobile__mobile.etc.dat",
                       "gpu":  "etc"
@@ -2277,7 +2277,7 @@
                   },
                   {
                       "name":  "mobile.pvr.dat",
-                      "size":  7267946,
+                      "size":  8712314,
                       "path":  "%FILES%/texdb/mobile/mobile.pvr.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__mobile__mobile.pvr.dat",
                       "gpu":  "pvr"
@@ -2585,79 +2585,142 @@
                   },
                   {
                       "name":  "txd.dxt.dat",
-                      "size":  8921352,
+                      "size":  79988674,
                       "path":  "%FILES%/texdb/txd/txd.dxt.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.dxt.dat",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "txd.dxt.tmb",
-                      "size":  31856,
+                      "size":  70020,
                       "path":  "%FILES%/texdb/txd/txd.dxt.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.dxt.tmb",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "txd.dxt.toc",
-                      "size":  2384,
+                      "size":  4864,
                       "path":  "%FILES%/texdb/txd/txd.dxt.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.dxt.toc",
                       "gpu":  "dxt"
                   },
                   {
                       "name":  "txd.etc.dat",
-                      "size":  8921352,
+                      "size":  79988674,
                       "path":  "%FILES%/texdb/txd/txd.etc.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.etc.dat",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "txd.etc.tmb",
-                      "size":  31856,
+                      "size":  70020,
                       "path":  "%FILES%/texdb/txd/txd.etc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.etc.tmb",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "txd.etc.toc",
-                      "size":  2384,
+                      "size":  4864,
                       "path":  "%FILES%/texdb/txd/txd.etc.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.etc.toc",
                       "gpu":  "etc"
                   },
                   {
                       "name":  "txd.pvr.dat",
-                      "size":  8921352,
+                      "size":  79988674,
                       "path":  "%FILES%/texdb/txd/txd.pvr.dat",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.pvr.dat",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "txd.pvr.tmb",
-                      "size":  31856,
+                      "size":  70020,
                       "path":  "%FILES%/texdb/txd/txd.pvr.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.pvr.tmb",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "txd.pvr.toc",
-                      "size":  2384,
+                      "size":  4864,
                       "path":  "%FILES%/texdb/txd/txd.pvr.toc",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.pvr.toc",
                       "gpu":  "pvr"
                   },
                   {
                       "name":  "txd.txt",
-                      "size":  43286,
+                      "size":  73999,
                       "path":  "%FILES%/texdb/txd/txd.txt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.txt",
                       "gpu":  "all"
                   },
                   {
                       "name":  "txd.unc.tmb",
-                      "size":  60560,
+                      "size":  167780,
                       "path":  "%FILES%/texdb/txd/txd.unc.tmb",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__txd.unc.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "chrome.png",
+                      "size":  2732,
+                      "path":  "%FILES%/texdb/txd/Without alpha/chrome.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__chrome.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "diff.png",
+                      "size":  203568,
+                      "path":  "%FILES%/texdb/txd/Without alpha/diff.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__diff.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "display_multimedia.png",
+                      "size":  46218,
+                      "path":  "%FILES%/texdb/txd/Without alpha/display_multimedia.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__display_multimedia.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "painel.png",
+                      "size":  26312,
+                      "path":  "%FILES%/texdb/txd/Without alpha/painel.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__painel.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "prop_ld_100_dollar.png",
+                      "size":  84764,
+                      "path":  "%FILES%/texdb/txd/Without alpha/prop_ld_100_dollar.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__prop_ld_100_dollar.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "prop_weed_01.png",
+                      "size":  140463,
+                      "path":  "%FILES%/texdb/txd/Without alpha/prop_weed_01.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__prop_weed_01.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "red lights.png",
+                      "size":  10512,
+                      "path":  "%FILES%/texdb/txd/Without alpha/red lights.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__red lights.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "Rotor.png",
+                      "size":  216541,
+                      "path":  "%FILES%/texdb/txd/Without alpha/Rotor.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__Rotor.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "touch.png",
+                      "size":  43520,
+                      "path":  "%FILES%/texdb/txd/Without alpha/touch.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/texdb__txd__Without alpha__touch.png",
                       "gpu":  "all"
                   },
                   {
@@ -2707,6 +2770,13 @@
                       "size":  1386626,
                       "path":  "%FILES%/Text/spanish.gxt",
                       "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/Text__spanish.gxt",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  ".trashed-1767646268-RussianFont.png",
+                      "size":  38743,
+                      "path":  "%FILES%/Textures/fonts/.trashed-1767646268-RussianFont.png",
+                      "url":  "https://github.com/gtacaosrjoficial2016/caos-rj-update/releases/download/datafull/Textures__fonts__.trashed-1767646268-RussianFont.png",
                       "gpu":  "all"
                   },
                   {
