@@ -1,0 +1,13 @@
+{
+  "default": "full",
+  "lite": {
+    "enabled": true,
+    "title": "DATA LITE",
+    "subtitle": "800MB"
+  },
+  "full": {
+    "enabled": true,
+    "title": "DATA FULL",
+    "subtitle": "2GB"
+  }
+}
