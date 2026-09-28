@@ -2,11 +2,11 @@
   "default": "full",
   "lite": {
     "enabled": true,
-    "title": "DATA LITE",
-    "subtitle": "800MB"
+    "title": "DATA CAOS",
+    "subtitle": "1GB"
   },
   "full": {
-    "enabled": true,
+    "enabled": false,
     "title": "DATA FULL",
     "subtitle": "2GB"
   }
