@@ -14,20 +14,20 @@
       "image": "caos_ref_news_2"
     },
     {
-      "title": "MELHORIAS NO VOIP",
-      "description": "Áudio mais claro e estável para todos.",
-      "date": "14/06/2026",
+      "title": "SISTEMA PIXACAO",
+      "description": "Sistema de pixação para pixar as paredes.",
+      "date": "10/10/2026",
       "image": "caos_ref_news_3"
     },
     {
-      "title": "EVENTO COPA CAOS RJ",
-      "description": "Participe da nossa copa e concorra a prêmios.",
+      "title": "SISTEMA BARRACA DROGA",
+      "description": "Sistema de barracas de drogas para vender.",
       "date": "14/06/2026",
       "image": "caos_ref_news_4"
     },
     {
-      "title": "NOVO VEÍCULO: SULTAN VIP",
-      "description": "Adicionado ao inventário VIP dos jogadores.",
+      "title": "NOVO MERCADO NEGRO",
+      "description": "Adicionado novo mercado negro.",
       "date": "13/06/2026",
       "image": "caos_ref_news_5"
     }
@@ -35,7 +35,7 @@
   "updates": [
     "Sistema de equipes",
     "Sistema de radinho com voz",
-    "Novo evento: Guerra Neutra",
-    "Melhorias no anti-cheat"
+    "Varios eventos automaticos",
+    "Nova atualização do servidor"
   ]
 }
