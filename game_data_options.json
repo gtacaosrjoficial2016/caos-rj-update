@@ -6,8 +6,8 @@
     "subtitle": "1GB"
   },
   "full": {
-    "enabled": false,
-    "title": "DATA FULL",
+    "enabled": true,
+    "title": "CAOS FULL",
     "subtitle": "2GB"
   }
 }
